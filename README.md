@@ -125,6 +125,13 @@ At all five centres, baseline months 5 and 6 were higher than the trial month. R
 
 Seasonality, changing visitor numbers, or other external factors could explain the pattern, but the available data does not establish the cause.
 
+### Finding 5: Commercial Activity and Visitor Demand
+
+Analysis of the trial-period data shows that recorded footfall, Oyster Sales, and Tours & Attractions activity are highest during the midday and early-afternoon period, broadly between 12 pm and 4 pm. All three measures decline after this period, with a particularly noticeable drop between 2–3 pm and 3–4 pm.
+
+**Business implication:** The 12 pm–4 pm period may represent the strongest opportunity for commercial activity. Staffing arrangements could be reviewed to ensure adequate coverage during these hours.
+
+**Limitation:** The findings describe recorded activity during the trial period. Further validation is needed before recommending changes to individual centres' shifts or opening hours.
 ---
 
 ## 5. Dataset B: Trial-Period Activity Analysis
