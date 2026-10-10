@@ -184,6 +184,18 @@ The data examined so far does not establish sales conversion rates, revenue per 
 
 ---
 
+### Stage 3: Baseline vs Trial Revenue Analysis
+
+Revenue during the trial month was £346,500, compared with an average monthly baseline revenue of £346,700. This represents a decrease of £200, or approximately 0.06%, indicating that overall revenue was effectively unchanged against the six-month baseline average.
+
+Performance varied by centre. King's Cross and Victoria recorded increases of approximately 2.12% and 2.80%, respectively, while Heathrow, Liverpool Street and Piccadilly Circus recorded decreases. In addition, all five centres generated less revenue during the trial month than in Baseline Month 6.
+
+**Conclusion:** The available revenue data does not demonstrate a consistent improvement during the trial. Although two centres performed above their baseline averages, the overall result was essentially flat, and the trial month did not match the most recent baseline month's revenue at any centre. Further analysis is needed to understand the category-level changes and assess whether staffing arrangements should be adjusted.
+
+**Limitation:** The comparison identifies differences in revenue but does not establish that the trial shift patterns caused those differences. Seasonal variation and other contributing factors have not yet been assessed.
+
+---
+
 ## 6. Shift Pattern Analysis
 
 The three shift patterns are:
