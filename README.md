@@ -133,6 +133,7 @@ Analysis of the trial-period data shows that recorded footfall, Oyster Sales, an
 
 **Limitation:** The findings describe recorded activity during the trial period. Further validation is needed before recommending changes to individual centres' shifts or opening hours.
 
+---
 
 ## 5. Dataset B: Trial-Period Activity Analysis
 
