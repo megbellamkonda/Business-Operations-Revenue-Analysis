@@ -131,8 +131,8 @@ Analysis of the trial-period data shows that recorded footfall, Oyster Sales, an
 
 **Business implication:** The 12 pm–4 pm period may represent the strongest opportunity for commercial activity. Staffing arrangements could be reviewed to ensure adequate coverage during these hours. 
 
-Limitation: The findings describe recorded activity during the trial period. Further validation is needed before recommending changes to individual centres' shifts or opening hours.
----
+**Limitation:** The findings describe recorded activity during the trial period. Further validation is needed before recommending changes to individual centres' shifts or opening hours.
+
 
 ## 5. Dataset B: Trial-Period Activity Analysis
 
