@@ -268,6 +268,24 @@ Because these are sums across recorded observations, they cannot establish which
 **Conclusion for Victoria:** The hourly comparison does not yet explain why the 9 am–4 pm shift had the highest overall average. More analysis is required before attributing the difference to a specific demand pattern.
 
 ---
+## Stage 4
+**Victoria — Product Category Analysis**
+
+Trial-month revenue was £56,300, £1,533.33 (2.80%) above the six-month baseline average. All four product categories exceeded their baseline averages, with Oyster / travel cards contributing the largest increase (£1,183.33). However, trial-month revenue remained below Baseline Month 6, particularly for Tours & Attractions. The findings indicate improvement against the historical average, but do not establish that the trial shift pattern caused the increase.
+
+**King's Cross — Product Category Analysis**
+
+Trial-month revenue was £72,900, £1,516.67 (2.12%) above the six-month baseline average. Tours & Attractions contributed the largest increase (£883.33), followed by Oyster / travel cards (£733.33). Other paid products also increased slightly, while Merchandise declined by £183.33. Despite exceeding the historical average, total trial-month revenue remained below Baseline Month 6. The findings identify category-level differences but do not establish that the trial shift pattern caused them.
+
+**Heathrow — Product Category Analysis**
+
+Trial-month revenue was £92,500, £1,900 (2.01%) below the six-month baseline average. Oyster / travel cards showed the largest decline, falling £2,200 (4.26%) below average. Other paid products declined by £133.33, while Merchandise was broadly in line with its baseline average. Tours & Attractions increased by £483.33, partially offsetting the decline in Oyster / travel card revenue. Further investigation is needed to understand the reason for the category-level changes; the comparison does not establish that the trial shift pattern caused them.
+
+**Overall Category Analysis Finding**
+
+The category-level comparison showed different patterns across the three centres. Victoria recorded above-average revenue across all four product categories, while King's Cross benefited mainly from Tours & Attractions and Oyster / travel cards despite a decline in Merchandise. Heathrow's overall decline was primarily associated with lower Oyster / travel card revenue, partially offset by an increase in Tours & Attractions.
+
+Tours & Attractions revenue was above its six-month baseline average at all three centres examined. However, the findings are based on a single trial month and do not establish the causes of the revenue changes or demonstrate that the trial shift patterns improved performance.
 
 ## 7. Current Business Insights
 
